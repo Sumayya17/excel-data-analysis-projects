@@ -1,5 +1,3 @@
-# excel-data-analysis-projects
-A collection of beginner to intermediate Excel data analysis projects covering payroll, education, HR, decision-making, and inventory management with practical dashboards and insights.
 # Excel Data Analysis Projects
 
 This repository contains a collection of Excel-based data analysis and dashboard projects I created to explore business scenarios in payroll, HR, education, inventory, and decision-making.
